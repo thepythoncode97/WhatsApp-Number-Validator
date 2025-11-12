@@ -1,7 +1,8 @@
 # WhatsApp Number Validator
 # WhatsApp 号码验证器
 
-![image](https://raw.githubusercontent.com/alexrony21/WhatsApp-Number-Validator/refs/heads/main/WhatsApp_Number_Validator.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/WhatsApp-Number-Validator/refs/heads/main/WhatsApp_Number_Validator.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/WhatsApp-Number-Validator/refs/heads/main/WhatsApp_Number_Validator_Result.png)
 
 ## Features Explained:
 
